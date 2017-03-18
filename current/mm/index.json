@@ -1,0 +1,46 @@
+{
+    "items":[
+        {
+            "title":"au.mp3",
+            "href":"/current/mm/au.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/mm/au.mp3",
+            "duration": "00:16",
+            "type":"audio"
+        },
+        {
+            "title":"mm-bits.mp3",
+            "href":"/current/mm/mm-bits.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/mm/mm-bits.mp3",
+            "duration": "00:39",
+            "type":"audio"
+        },
+        {
+            "title":"mm+er.mp3",
+            "href":"/current/mm/mm-er.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/mm/mm%2Ber.mp3",
+            "duration": "06:01",
+            "type":"audio"
+        },
+        {
+            "title":"mm+re.mp3",
+            "href":"/current/mm/mm-re.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/mm/mm%2Bre.mp3",
+            "duration": "03:58",
+            "type":"audio"
+        },
+        {
+            "title":"mm-valh2-2.mp3",
+            "href":"/current/mm/mm-valh2-2.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/mm/mm-valh2-2.mp3",
+            "duration": "02:14",
+            "type":"audio"
+        },
+        {
+            "title":"mm-valh2.mp3",
+            "href":"/current/mm/mm-valh2.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/mm/mm-valh2.mp3",
+            "duration": "06:07",
+            "type":"audio"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "items":[
+        {
+            "title":"low.mp3",
+            "href":"/current/black-live/low.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/black+live/low.mp3",
+            "duration": "03:56",
+            "type":"audio"
+        },
+        {
+            "title":"alarm.mp3",
+            "href":"/current/black-live/alarm.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/black+live/alarm.mp3",
+            "duration": "07:04",
+            "type":"audio"
+        },
+        {
+            "title":"not waltz.mp3",
+            "href":"/current/black-live/not-waltz.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/black+live/not+waltz.mp3",
+            "duration": "04:44",
+            "type":"audio"
+        },
+        {
+            "title":"gofp.mp3",
+            "href":"/current/black-live/gofp.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/black+live/gofp.mp3",
+            "duration": "07:42",
+            "type":"audio"
+        },
+        {
+            "title":"kind.mp3",
+            "href":"/current/black-live/kind.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/black+live/kind.mp3",
+            "duration": "06:32",
+            "type":"audio"
+        }
+
+    ]
+}

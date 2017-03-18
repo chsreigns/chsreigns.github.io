@@ -1,0 +1,37 @@
+{
+    "items":[
+        {
+            "title":"piano jam.mp3",
+            "href":"/lp/piano-jam.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/lp/piano+jam.mp3",
+            "duration": "03:35",
+            "type":"audio"
+        },
+        {
+            "title":"mix.mp3",
+            "href":"/lp/mix.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/lp/mix.mp3",
+            "duration": "18:58",
+            "type":"audio"
+        },
+         {
+            "title":"LPLS.mp4",
+            "href":"/lp/lpls-mp4.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/lp/LPLS.mp4",
+            "duration": "01:52",
+            "type":"video"
+        },
+        {
+            "title":"LPLS.mp3",
+            "href":"/lp/lpls.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/lp/LPLS.mp3",
+            "duration": "01:52",
+            "type":"audio"
+        },
+        {
+            "title":"sigourney weaver",
+            "href":"/lp/sigourney-weaver/index.html",
+            "type":"folder"
+        }
+    ]
+}
