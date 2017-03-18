@@ -2,14 +2,14 @@
     "items":[
         {
             "title":"P – Live 231015 A.wav",
-            "href":"/pl/Live-2/pl.html",
+            "href":"/lp_/p-live-231015.html",
             "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/PL/Live%E2%80%932+190414/PL+%E2%80%93+live+cut.mp3",
             "duration": "12:52",
             "type":"audio"
         },
         {
             "title":"P – Live 231015 B.wav",
-            "href":"/pl/Live-2/p.html",
+            "href":"/lp_/p-live-231015-b.html",
             "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/PL/Live%E2%80%932+190414/P+%E2%80%93+live+cut.mp3",
             "duration": "08:09",
             "type":"audio"
