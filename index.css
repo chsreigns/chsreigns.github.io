@@ -70,7 +70,7 @@ video {
   text-decoration: underline;
 }
 .image {
-
+  margin: 15px 0;
 }
 .image img {
   display: block;
