@@ -168,6 +168,9 @@ canvas {
   display: block;
 }
 @media only screen and (min-width: 760px) {
+  .link-download {
+    display: inline-block;
+  }
   .item-media .title {
     order: 2;
     -webkit-order: 2;
