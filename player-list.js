@@ -118,7 +118,8 @@ document.addEventListener("DOMContentLoaded", function() {
         }
         if (this.currentTime == this.duration) {
           item.classList.remove("active");
-          if (nextItem) {
+          if (nextItem && !detectmob()) {
+            console.log('shit')
             nextItem.classList.add("active");
             nextItem.childNodes[6].play();
             nextItem.childNodes[1].innerHTML = "PAUSE";
@@ -140,5 +141,21 @@ document.addEventListener("DOMContentLoaded", function() {
     seconds = Math.floor(seconds % 60);
     seconds = (seconds >= 10) ? seconds : "0" + seconds;
     return minutes + ":" + seconds;
+  }
+
+  function detectmob() {
+    if( navigator.userAgent.match(/Android/i)
+      || navigator.userAgent.match(/webOS/i)
+      || navigator.userAgent.match(/iPhone/i)
+      || navigator.userAgent.match(/iPad/i)
+      || navigator.userAgent.match(/iPod/i)
+      || navigator.userAgent.match(/BlackBerry/i)
+      || navigator.userAgent.match(/Windows Phone/i)
+    ){
+      return true;
+    }
+    else {
+      return false;
+    }
   }
 });
