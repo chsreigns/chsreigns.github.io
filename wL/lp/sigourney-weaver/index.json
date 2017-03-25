@@ -2,14 +2,14 @@
     "items":[
         {
             "title":"03.mp4",
-            "href":"/lp/sigourney-weaver/03-mp4.html",
+            "href":"/wL/lp/sigourney-weaver/03-mp4.html",
             "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/lp/sigourney+weaver/03.mp4",
             "duration": "06:48",
             "type":"video"
         },
          {
             "title":"03.mp3",
-            "href":"/lp/sigourney-weaver/03.html",
+            "href":"/wL/lp/sigourney-weaver/03.html",
             "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/lp/sigourney+weaver/03.mp3",
             "duration": "07:04",
             "type":"audio"
