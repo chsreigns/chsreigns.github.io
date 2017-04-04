@@ -1,14 +1,14 @@
 {
     "items":[
         {
-            "title":"P – Live 231015 A exerpt.wav",
+            "title":"P – Live 231015 A excerpt.wav",
             "href":"/live231015/p-live-231015-a.html",
             "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/LP/P+%E2%80%93%C2%A0Live+231015+A+cut.wav",
             "duration": "01:30",
             "type":"audio"
         },
         {
-            "title":"P – Live 231015 B exerpt.wav",
+            "title":"P – Live 231015 B excerpt.wav",
             "href":"/live231015/p-live-231015-b.html",
             "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/LP/P+%E2%80%93%C2%A0Live+231015+B+cut.wav",
             "duration": "01:30",
