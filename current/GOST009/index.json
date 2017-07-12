@@ -2,7 +2,7 @@
     "items":[
         {
             "title":"gostindashell.mp3",
-            "href":"/current/gost009/gostindashell.html",
+            "href":"/current/gost009.html",
             "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/gostindashell.mp3",
             "duration": "07:30",
             "type":"audio"
