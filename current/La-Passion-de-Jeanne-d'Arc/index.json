@@ -2,7 +2,7 @@
     "items":[
         {
             "title":"La Passion de Jeanne d'Arc.mp3",
-            "href":"/current/la-passion-de-jeanne-d'Arc.html",
+            "href":"/current/la-passion-de-jeanne-d'arc.html",
             "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/gost009/gostindashell.mp3",
             "duration": "54:34",
             "type":"audio"
