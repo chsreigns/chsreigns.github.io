@@ -1,24 +1,17 @@
 {
     "items":[
         {
-            "title":"p mix 1",
-            "href":"/current/mm-ec/061216.html",
-            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/mm-ec/061216.m4a",
+            "title":"P – mix1!",
+            "href":"/current/mixes/p-mix1!.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/mixes/P%E2%80%93mix1!.mp3",
             "duration": "01:06",
             "type":"audio"
         },
         {
             "title":"DJ Stylist – Noir",
-            "href":"/current/mm-ec/141216.html",
-            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/mm-ec/141216.m4a",
+            "href":"/current/mixes/DJ-Stylist.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/mixes/DJ+Stylist+%E2%80%93+Noir.mp3",
             "duration": "01:41",
-            "type":"audio"
-        },
-        {
-            "title":"before live.mp3",
-            "href":"/current/mm-ec/before-live.html",
-            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/mm-ec/before+live.mp3",
-            "duration": "06:23",
             "type":"audio"
         },
     ]
