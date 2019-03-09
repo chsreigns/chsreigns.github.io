@@ -1,0 +1,12 @@
+{
+    "items":[
+        {
+            "title":"explosion.mp3",
+            "href":"/current/sample-bank/explosion.html",
+            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/sample-bank/explosion_FINAL.mp3",
+            "duration": "00:03",
+            "type":"audio"
+        }
+
+    ]
+}
