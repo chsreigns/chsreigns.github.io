@@ -97,6 +97,13 @@
             "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/drafts/280316.mp3",
             "duration": "02:35",
             "type":"audio"
+        },
+        {
+            "title":"folk w/ volodymyr.mp3",
+            "href":"/drafts/folk.html",
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/drafts/folk+w+volodymyr.mp3",
+            "duration": "02:29",
+            "type":"audio"
         }
     ]
 }
