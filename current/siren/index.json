@@ -1,0 +1,11 @@
+{
+    "items":[
+        {
+            "title":"Siren.wav",
+            "href":"/current/gost/edit-2.html",
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/siren/Siren.wav",
+            "duration": "07:07",
+            "type":"audio"
+        }
+    ]
+}
