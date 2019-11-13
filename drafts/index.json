@@ -99,6 +99,13 @@
             "type":"audio"
         },
         {
+            "title":"try 17.wav",
+            "href":"/drafts/280316.html",
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/drafts/try.wav",
+            "duration": "01:05",
+            "type":"audio"
+        },
+        {
             "title":"folk w/ volodymyr.mp3",
             "href":"/drafts/folk.html",
             "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/drafts/folk+w+volodymyr.mp3",
