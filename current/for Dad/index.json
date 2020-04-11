@@ -1,0 +1,46 @@
+{
+    "items":[
+        {
+            "title":"All the tired horses",
+            "href":"/current/no-way",
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/for+Dad/Bob+Dylan+-+All+the+Tired+Horses.mp3",
+            "duration": "03:13",
+            "type":"audio"
+        },
+        {
+            "title":"R.Murray Schaefer – Snowforms",
+            "href":"/current/no-way",
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/for+Dad/05+Snowforms.mp3",
+            "duration": "07:01",
+            "type":"audio"
+        },
+         {
+            "title":"Joan La Barbara – Erin (excerpt)",
+            "href":"/current/no-way",
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/for+Dad/Joan+La+Barbara+%E2%80%93+Erin+(part).mp3",
+            "duration": "00:27",
+            "type":"audio"
+        },
+         {
+            "title":"Goze – Untitled",
+            "href":"/current/no-way",
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/for+Dad/Goze+%E2%80%93+Untitled.mp3",
+            "duration": "03:01",
+            "type":"audio"
+        },
+         {
+            "title":"Henry Flynt – Celectial Power",
+            "href":"/current/no-way",
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/for+Dad/02+Celestial+Power.mp3",
+            "duration": "45:12",
+            "type":"audio"
+        },
+         {
+            "title":"Dock Boggs – Oh Death",
+            "href":"/current/no-way",
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/for+Dad/Dock+Boggs+-+Oh+Death.mp3",
+            "duration": "03:20",
+            "type":"audio"
+        },
+    ]
+}
