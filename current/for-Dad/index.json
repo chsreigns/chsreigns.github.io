@@ -1,20 +1,6 @@
 {
     "items":[
         {
-            "title":"P – mix1!",
-            "href":"/current/for-dad/p-mix1!.html",
-            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/mixes/P%E2%80%93mix1!.mp3",
-            "duration": "44:56",
-            "type":"audio"
-        },
-        {
-            "title":"DJ Stylist – Noir",
-            "href":"/current/for-dad/DJ-Stylist.html",
-            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/mixes/DJ+Stylist+%E2%80%93+Noir.mp3",
-            "duration": "41:59",
-            "type":"audio"
-        },
-        {
             "title":"All the tired horses",
             "href":"/current/for-Dad/all-the-horses.html",
             "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/for+Dad/Bob+Dylan+-+All+the+Tired+Horses.mp3",
