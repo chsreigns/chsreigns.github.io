@@ -1,0 +1,18 @@
+{
+    "items":[
+        {
+            "title":"Untitled.mpeg",
+            "href":"/current/Goze/untitled.html",
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Goze/Goze+%E2%80%93+Untitled.mpeg",
+            "duration": "03:02",
+            "type":"video"
+        },
+        {
+            "title":"Plez.wav",
+            "href":"/current/Goze/plez.html",
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Goze/Goze+%E2%80%93+Plez.wav",
+            "duration": "02:46",
+            "type":"audio"
+        }
+    ]
+}
