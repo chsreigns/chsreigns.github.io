@@ -1,0 +1,25 @@
+{
+    "items":[
+        {
+            "title":"Untitled.mp4",
+            "href":"/current/Goze/untitled.html",
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Goze/Goze+%E2%80%93+Untitled.mp4",
+            "duration": "03:02",
+            "type":"video"
+        },
+        {
+            "title":"Plez.wav",
+            "href":"/current/Goze/plez.html",
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Goze/Goze+%E2%80%93+Plez.wav",
+            "duration": "02:46",
+            "type":"audio"
+        },
+        {
+            "title":"w jam.wav",
+            "href":"/current/Goze/w_jam.html",
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Goze/Goze+%E2%80%93+w+jam.wav",
+            "duration": "11:58",
+            "type":"audio"
+        }
+    ]
+}
