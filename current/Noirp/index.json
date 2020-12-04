@@ -2,10 +2,10 @@
     "items":[
         {
             "title":"There's a Hurry Train Coming.wav",
-            "href":"/current/Goze/untitled.html",
+            "href":"/current/Noirp/hurry_train.html",
             "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Noirp/P+%E2%80%93%C2%A0There's+a+Hurry+Train+Coming.wav",
             "duration": "03:49",
-            "type":"video"
+            "type":"audio"
         },
         {
             "title":"Come Out.wav",
