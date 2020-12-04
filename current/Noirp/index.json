@@ -2,21 +2,21 @@
     "items":[
         {
             "title":"There's a Hurry Train Coming.wav",
-            "href":"/current/Noirp/hurry_train.html",
+            "href":"/current/Noirp/hurry_train_coming.html",
             "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Noirp/P+%E2%80%93%C2%A0There's+a+Hurry+Train+Coming.wav",
             "duration": "03:49",
             "type":"audio"
         },
         {
             "title":"Come Out.wav",
-            "href":"/current/Goze/plez.html",
+            "href":"/current/Noirp/come_out.html",
             "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Noirp/P+%E2%80%93+Come+Out.wav",
             "duration": "01:22",
             "type":"audio"
         },
         {
             "title":"Fireworks (to A.J.).wav",
-            "href":"/current/Goze/w_jam.html",
+            "href":"/current/Noirp/fireworks.html",
             "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Noirp/P+%E2%80%93%C2%A0Fireworks+(to+A.J.).wav",
             "duration": "00:32",
             "type":"audio"
