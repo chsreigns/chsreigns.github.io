@@ -1,36 +1,36 @@
 {
     "items":[
         {
-            "title":"There's a Hurry Train Coming.wav",
+            "title":"There's a Hurry Train Coming",
             "href":"/current/Noirp/hurry_train_coming.html",
             "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Noirp/P+%E2%80%93%C2%A0There's+a+Hurry+Train+Coming.wav",
             "duration": "03:49",
             "type":"audio"
         },
         {
-            "title":"Come Out.wav",
+            "title":"Come Out",
             "href":"/current/Noirp/come_out.html",
             "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Noirp/P+%E2%80%93+Come+Out.wav",
             "duration": "01:22",
             "type":"audio"
         },
         {
-            "title":"Fireworks (to A.J.).wav",
+            "title":"Fireworks (to A.J.)",
             "href":"/current/Noirp/fireworks.html",
             "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Noirp/P+%E2%80%93%C2%A0Fireworks+(to+A.J.).wav",
             "duration": "00:32",
             "type":"audio"
         },
         {
-            "title":"Gostindashell.wav",
-            "href":"/current/Goze/plez.html",
+            "title":"Gostindashell",
+            "href":"/current/Noirp/gostindashell.html",
             "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Noirp/P+%E2%80%93%C2%A0Gosindashell.wav",
             "duration": "11:50",
             "type":"audio"
         },
         {
-            "title":"bb trybal.wav",
-            "href":"/current/Goze/w_jam.html",
+            "title":"bb trybal",
+            "href":"/current/Noirp/gostindashell.html",
             "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Noirp/P+%E2%80%93%C2%A0bb+trybal.wav",
             "duration": "07:44",
             "type":"audio"
