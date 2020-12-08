@@ -1,7 +1,7 @@
 {
     "items":[
         {
-            "title":"Untitled.mp4",
+            "title":"Untitled",
             "href":"/current/Goze/untitled.html",
             "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Goze/Goze+%E2%80%93+Untitled.mp4",
             "duration": "03:02",
@@ -17,9 +17,9 @@
         {
             "title":"West jam",
             "href":"/current/Goze/w_jam.html",
-            "src":"https://player.vimeo.com/video/416633324",
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Goze/Goze+%E2%80%93+w+jam.wav",
             "duration": "12:05",
-            "type":"video"
+            "type":"audio"
         }
     ]
 }
