@@ -8,18 +8,18 @@
             "type":"video"
         },
         {
-            "title":"Plez.wav",
+            "title":"Plez",
             "href":"/current/Goze/plez.html",
-            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Goze/Goze+%E2%80%93+Plez.wav",
-            "duration": "02:46",
-            "type":"audio"
+            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Goze/Goze+%E2%80%93%C2%A0Plez.mov",
+            "duration": "02:48",
+            "type":"video"
         },
         {
-            "title":"w jam.wav",
+            "title":"West jam",
             "href":"/current/Goze/w_jam.html",
-            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Goze/Goze+%E2%80%93+w+jam.wav",
-            "duration": "11:58",
-            "type":"audio"
+            "src":"https://player.vimeo.com/video/416633324",
+            "duration": "12:05",
+            "type":"video"
         }
     ]
 }
