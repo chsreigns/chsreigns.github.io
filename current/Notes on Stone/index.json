@@ -2,8 +2,8 @@
     "items":[
         {
             "title":"Notes on Stone",
-            "href":"/current/gost/gostindashell.html",
-            "src":"https://s3-eu-west-1.amazonaws.com/archive-pe/current/gost009/gostindashell.mp3",
+            "href":"/current/gost/notes-on-stone.html",
+            "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/Notes+on+Stone.wav",
             "duration": "13:04",
             "type":"audio"
         }
