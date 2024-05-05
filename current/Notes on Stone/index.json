@@ -2,7 +2,7 @@
     "items":[
         {
             "title":"Notes on Stone",
-            "href":"/current/gost/notes-on-stone.html",
+            "href":"/current/notes-on-stone.html",
             "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/Notes+on+Stone.wav",
             "duration": "13:04",
             "type":"audio"
