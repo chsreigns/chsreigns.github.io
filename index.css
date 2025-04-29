@@ -218,3 +218,7 @@ canvas {
     margin-right: 0;
   }
 }
+
+.player-placeholder {
+  display: flex;
+}
