@@ -8,11 +8,11 @@
             "type":"video"
         },
         {
-            "title":"Plez",
+            "title":"live recording 31/08/25",
             "href":"/current/Goze/plez.html",
-            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Goze/Goze+%E2%80%93%C2%A0Plez.mov",
-            "duration": "02:48",
-            "type":"video"
+            "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/31.08_excerpt.mp3",
+            "duration": "15:10",
+            "type":"audio"
         },
         {
             "title":"West jam",
