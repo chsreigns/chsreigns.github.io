@@ -15,11 +15,11 @@
             "type":"audio"
         },
         {
-            "title":"West jam",
+            "title":"Close",
             "href":"/current/Goze/w_jam.html",
-            "src":"https://archive-pe.s3-eu-west-1.amazonaws.com/current/Goze/Goze+%E2%80%93+w+jam.wav",
+            "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/IMG_8167.MOV",
             "duration": "12:05",
-            "type":"audio"
+            "type":"video"
         }
     ]
 }
