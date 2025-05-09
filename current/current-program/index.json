@@ -7,7 +7,7 @@
             "type":"audio"
         },
         {
-            "title":"live recording 31/08/25",
+            "title":"31/08/2025 live excerpt",
             "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/31.08_excerpt.mp3",
             "duration": "15:10",
             "type":"audio"
@@ -16,6 +16,12 @@
             "title":"Close my eyes",
             "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/current+program/Close+my+eyes+_lost_3.mp3",
             "duration": "03:52",
+            "type":"audio"
+        }
+        {
+            "title":"10/04/2024 live excerpt",
+            "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/current+program/Lean+out+your+window+10+march+live.mp3",
+            "duration": "01:15",
             "type":"audio"
         }
     ]
