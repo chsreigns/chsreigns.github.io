@@ -2,20 +2,18 @@
     "items":[
         {
             "title":"When death cries",
-            "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/for+Dad/02+Celestial+Power.mp3",
+            "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/current+program/When+doves+cry.mp3",
             "duration": "03:39",
             "type":"audio"
         },
         {
             "title":"live recording 31/08/25",
-            "href":"/current/Goze/plez.html",
             "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/31.08_excerpt.mp3",
             "duration": "15:10",
             "type":"audio"
         },
         {
             "title":"Close my eyes",
-            "href":"/current/Goze/w_jam.html",
             "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/current+program/Close+my+eyes+_lost_3.mp3",
             "duration": "03:52",
             "type":"audio"
