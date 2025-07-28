@@ -1,0 +1,34 @@
+{
+    "items":[
+        {
+            "title":"When death cries",
+            "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/current+program/When+doves+cry.mp3",
+            "duration": "03:39",
+            "type":"audio"
+        },
+        {
+            "title":"31/08/2025 live excerpt",
+            "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/current+program/31.08_excerpt_plusone.mp3",
+            "duration": "15:10",
+            "type":"audio"
+        },
+        {
+            "title":"Close my eyes",
+            "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/current+program/Close+my+eyes+_lost_3.mp3",
+            "duration": "03:52",
+            "type":"audio"
+        },
+        {
+            "title":"10/04/2024 live excerpt",
+            "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/current+program/Lean+out+your+window+10+march+live.mp3",
+            "duration": "01:15",
+            "type":"audio"
+        },
+        {
+            "title":"25/05/2025 live excerpt",
+            "src":"https://archive-pe.s3.eu-west-1.amazonaws.com/current+program/Tristan+Murail+%E2%80%93%C2%A0Memoire+%3A+Erosion+accompanied+by+voice.mp3",
+            "duration": "02:13",
+            "type":"audio"
+        }
+    ]
+}
